@@ -1,0 +1,22 @@
+.panel-title {
+    font-size: 14px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.panel-title:hover{
+    text-overflow:clip;
+    width:auto;
+    white-space: normal;
+}
+
+.btn-issue {
+    margin-left: 25px;
+    background-color: #9a9c12;
+}
+
+.btn-return {
+    background-color: #06ab9b;
+    margin-left: 20px;
+}
