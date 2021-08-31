@@ -1,5 +1,5 @@
 # Bookstore - dApp
-An dApp example, implement for manage bookstore case.
+An dApp example, implement for managing bookstore case.
 Languages: solidity, javascript
 
 # Dependencies
