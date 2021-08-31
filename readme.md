@@ -19,7 +19,7 @@ cd bookstore
 npm install
 ```
 ### Step 3. Start Ganache
-![ganache example](https://drive.google.com/file/d/15GvwAluTw9R8Q57Kvh6M5Iur7j9v19Ft/view?usp=sharing)
+![ganache example](docs/images/ganache.png?raw=true "ganache example")
 ### Step 4. Compile and Deploy Smart Contracts
 ```
 truffle migrate --reset
@@ -34,4 +34,4 @@ Open browser and click to extension Metamask:
 npm run dev
 ```
 You'll see the result at http://localhost:3000 , something like this:
-![application's UI](https://drive.google.com/file/d/1abpnNRXyqQxJfqA_W_bcgXKZ0oFrG9tt/view?usp=sharing)
+![application's UI](docs/images/bookstore.png?raw=true "application's UI")
