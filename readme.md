@@ -12,7 +12,7 @@ Install these prerequisites to run the example:
 
 ### Step 1. Clone the project
 ```
-git clone 
+git clone https://github.com/Bigguy98/Bookstore-Dapp.git
 ```
 ### Step 2. Install dependencies
 ```
