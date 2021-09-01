@@ -6,7 +6,7 @@ Languages: solidity, javascript
 # Dependencies
 Install these prerequisites to run the example:
  - Npm, NodeJs
- - Truffle: a javascript lib for developing smart contracts
+ - Truffle: a javascript framework for developing smart contracts
  - Ganache: an app to create local blockchain network
  - Metamask: browser extension to access blockchain networks websites
 
